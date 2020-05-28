@@ -1,0 +1,34 @@
+{
+  "name": "empty-project-template",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "email-validator": "^2.0.4",
+    "expo": "^34.0.0",
+    "expo-cli": "^3.21.3",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^0.19.1",
+    "react-native-email": "^1.0.2",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-modal-datetime-picker": "^6.0.0",
+    "react-native-progress": "^3.5.0",
+    "react-native-simple-dialogs": "^1.2.1",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-snap-carousel": "^3.7.5",
+    "react-navigation": "^2.9.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^6.0.0"
+  }
+}
